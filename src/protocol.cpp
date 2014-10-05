@@ -149,4 +149,3 @@ void CInv::print() const
 {
     printf("CInv(%s)\n", ToString().c_str());
 }
-
